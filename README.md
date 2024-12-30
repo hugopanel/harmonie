@@ -16,7 +16,7 @@ This programs lets you generate new pieces of music usign the Markov chain algor
 
 You can also combine tracks, transpose (shift all notes up or down) and invert them (e.g. high notes become low notes...).
 
-## How to install
+## How to install
 
 Clone the repository on your computer with
 
